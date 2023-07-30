@@ -46,20 +46,11 @@ The Reddit Redesign in Discord Theme project aims to provide the Reddit communit
 <img src="https://github.com/urfavcrow23/Redcord/blob/main/Redcord/tr669qcLKR.gif?raw=true" height=3px width=100% >
 
 
-<h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/dc6but6-a03d853d-502b-47e1-913f-55738c886211.gif?raw=true" width="20">  UI Overview </h2>
-<!-- <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/mockup.png?raw=true" width="100%"> -->
-
-<img src="https://github.com/urfavcrow23/Redcord/blob/main/Redcord/tr669qcLKR.gif?raw=true" height=3px width=100% >
-
  <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/monophy.gif?raw=true" width="25">  Project Link </h2>
-  <h4><i> You can see the entire application from the prototype by clicking on the following link --> 
-    <a href="https://www.figma.com/proto/wmfdyhlX11sIV2nuYkibXg/Brmjha-Card?page-id=0%3A1&type=design&node-id=50-3024&viewport=-4949%2C-1134%2C0.55&t=TG1qLrNwFSYmTbvt-1&scaling=scale-down&starting-point-node-id=50%3A2773&mode=design" target="_blank">Here</a>
+  <h4><i> You can see the design files by clicking on the following link --> 
+    <a href="https://www.figma.com/file/qkezQNGIAwe6LXslw28ZLs?type=design" target="_blank">Here</a>
  </i></h4>
 
-
-  <h4><i> Or See design file from  
-    <a href="https://www.figma.com/file/wmfdyhlX11sIV2nuYkibXg/Brmjha-Card?type=design&node-id=0%3A1&mode=design&t=EX7A2y4X85Lp2uCY-1" target="_blank">Here</a>
- </i></h4>
 <img src="https://github.com/urfavcrow23/Redcord/blob/main/Redcord/tr669qcLKR.gif?raw=true" height=3px width=100% >
 
 
