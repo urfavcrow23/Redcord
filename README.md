@@ -1,4 +1,4 @@
-<h2 align="left"><img src="https://github.com/urfavcrow23/Redcord/blob/main/Redcord/5542-discord-clyde-gif.gif?raw=true" width="20"><b>Redcord</b></h2>
+<h2 align="left"><img src="https://github.com/urfavcrow23/Redcord/blob/main/Redcord/5542-discord-clyde-gif.gif?raw=true" width="20"> <b>Redcord</b> <img src="https://github.com/urfavcrow23/Redcord/blob/main/Redcord/reddit.gif?raw=true" width="20"></h2>
 <h4 align="left"><img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/eyes_1f440.gif?raw=true" width="19"
   
   <i> The project aims to redesign the popular online platform Reddit in the theme of Discord. Reddit is a social news aggregation and discussion website where registered members can submit content, such as text posts or direct links. On the other hand, Discord is a communication platform primarily designed for creating communities. This project seeks to merge the functionalities and aesthetics of both platforms to create a unique and engaging user experience.
