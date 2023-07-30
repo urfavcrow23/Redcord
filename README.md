@@ -8,14 +8,14 @@
 <img src="https://github.com/urfavcrow23/Redcord/blob/main/Redcord/tr669qcLKR.gif?raw=true" height=3px width=100% >
 
 
-<h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/1_cGaTxrPGlA29Z9QcaRg-xA.gif?raw=true" width="30">  Objective </h2>
+<h2 align="left">Objective</h2>
 <h4 align="left">  <i> 
   The main objective of this project is to provide Reddit users with a completely redesigned interface inspired by the familiar and visually appealing Discord theme. The proposed redesign will focus on enhancing user engagement, streamlining navigation, and improving overall user satisfaction. By combining the best aspects of Reddit and Discord, this project aims to create a fresh and immersive community experience.
  </i> </h4>
 
 <img src="https://github.com/urfavcrow23/Redcord/blob/main/Redcord/tr669qcLKR.gif?raw=true" height=3px width=100% >
  
-<h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/1_cGaTxrPGlA29Z9QcaRg-xA.gif?raw=true" width="30">  Features </h2>
+<h2 align="left">Features</h2>
 <h4 align="left">  <i> 
   
 1. Discord-inspired Design: The project will employ the distinct color palette, typography, and layout elements of Discord to give Reddit a new and captivating visual identity.
@@ -32,14 +32,14 @@
 
 <img src="https://github.com/urfavcrow23/Redcord/blob/main/Redcord/tr669qcLKR.gif?raw=true" height=3px width=100% >
 
- <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/1_cGaTxrPGlA29Z9QcaRg-xA.gif?raw=true" width="30">  Implementation </h2>
+ <h2 align="left">Implementation</h2>
 <h4 align="left">  <i> 
   
 The project will start with a comprehensive analysis of the existing Reddit interface and Discord theme elements. This will be followed by designing wireframes and mockups to visualize the new interface. The development phase will involve implementing the redesigned features and integrating voice and video chat functionalities. Continuous testing and user feedback will be crucial to refine the design and ensure optimal performance. Finally, the completed redesign will be deployed and launched for Reddit users to experience and provide further input.
 
  </i> </h4>
 <img src="https://github.com/urfavcrow23/Redcord/blob/main/Redcord/tr669qcLKR.gif?raw=true" height=3px width=100% >
- <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/1_cGaTxrPGlA29Z9QcaRg-xA.gif?raw=true" width="30">  Conclusion </h2>
+ <h2 align="left">Conclusion</h2>
  <h4><i>
 The Reddit Redesign in Discord Theme project aims to provide the Reddit community with a fresh and engaging interface inspired by the popular communication platform, Discord. By incorporating Discord's aesthetics, navigation, and moderation tools, the redesigned Reddit will enhance user engagement and satisfaction. The integration of voice and video chat features will create a seamless and immersive community experience. With this project, Reddit users can expect an exciting new interface that combines the best of both platforms.
  </i></h4>
